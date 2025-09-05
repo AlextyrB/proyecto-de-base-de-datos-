@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="510.0" prefWidth="950.0" type="Pane" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.BarcoController">
+   <children>
+      <TableView fx:id="tblTablaBarco" layoutX="23.0" layoutY="134.0" prefHeight="348.0" prefWidth="893.0">
+        <columns>
+          <TableColumn fx:id="nMatricula" prefWidth="103.0" text="Nº Matricula " />
+          <TableColumn fx:id="Socio" prefWidth="123.0" text="Socio" />
+            <TableColumn fx:id="Muelle" prefWidth="124.0" text="Muelle" />
+            <TableColumn fx:id="Viaje" prefWidth="119.0" text="Viajes" />
+            <TableColumn fx:id="nombreBarco" minWidth="2.0" prefWidth="180.0" text="Nombre del Barco" />
+            <TableColumn fx:id="Mensualidad" prefWidth="113.0" text="Mensualidad" />
+            <TableColumn fx:id="comando" prefWidth="130.0" text="Editar" />
+        </columns>
+      </TableView>
+      <Label layoutX="422.0" layoutY="22.0" prefHeight="101.0" prefWidth="126.0" text="Barco">
+         <font>
+            <Font name="Dhurjati" size="51.0" />
+         </font>
+      </Label>
+      <FontAwesomeIconView fill="#092ed3" glyphName="USER_PLUS" layoutX="81.0" layoutY="82.0" onMouseClicked="#nuevoBarco" size="30" wrappingWidth="27.0" />
+      <FontAwesomeIconView fill="#57d75c" glyphName="REFRESH" layoutX="144.0" layoutY="84.0" onMouseClicked="#refrescar" size="30" wrappingWidth="27.0" />
+      <ImageView fitHeight="183.0" fitWidth="201.0" layoutX="738.0" layoutY="-8.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagen/barco-removebg-preview.png" />
+         </image>
+      </ImageView>
+   </children>
+</fx:root>

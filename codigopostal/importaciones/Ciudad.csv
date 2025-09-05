@@ -1,0 +1,674 @@
+c_eve_ciudad,d_ciudad,c_estado
+1,Ciudad de M�xico,9
+2,Aguascalientes,1
+3,Ensenada,2
+4,Ciudad Constituci�n,3
+5,San Francisco de Campeche,4
+6,Ciudad Acu�a,5
+7,Colima,6
+8,Comit�n de Dom�nguez,7
+9,Santa Rosal�a de Camargo,8
+10,Victoria de Durango,10
+11,Ac�mbaro,11
+12,Acapulco de Ju�rez,12
+13,Actopan,13
+14,Ameca,14
+15,Ciudad Adolfo L�pez Mateos,15
+16,Apatzing�n de la Constituci�n,16
+17,Cuautla,17
+18,Santiago Ixcuintla,18
+19,Ciudad Apodaca,19
+20,Juchit�n (Juchit�n de Zaragoza),20
+21,Atlixco,21
+22,Santiago de Quer�taro,22
+23,Canc�n,23
+24,Villa de Pozos,24
+25,Ciudad Valles,24
+26,Los Mochis,25
+27,San Luis R�o Colorado,26
+28,C�rdenas,27
+29,Altamira,28
+30,Apizaco,29
+31,Acayucan,30
+32,M�rida,31
+33,Fresnillo,32
+34,Ciudad de M�xico,9
+35,Calvillo,1
+36,Mexicali,2
+37,La Paz,3
+38,Ciudad del Carmen,4
+39,Frontera,5
+40,Manzanillo,6
+41,San Crist�bal de las Casas,7
+42,Chihuahua,8
+43,G�mez Palacio,10
+44,San Miguel de Allende,11
+45,Chilpancingo de los Bravo,12
+46,Apan,13
+47,Ciudad Guzm�n,14
+48,Chimalhuac�n,15
+49,Los Reyes de Salgado,16
+50,Cuernavaca,17
+51,Tepic,18
+52,San Pedro Garza Garc�a,19
+53,Oaxaca de Ju�rez,20
+54,Iz�car de Matamoros,21
+55,San Juan del Rio,22
+56,Cozumel,23
+57,�bano,24
+58,Culiac�n Rosales,25
+59,Agua Prieta,26
+60,Villahermosa,27
+61,Ciudad Camargo,28
+62,Villa Vicente Guerrero,29
+63,Naranjos,30
+64,Tizim�n,31
+65,Jerez de Garc�a Salinas,32
+66,Ciudad de M�xico,9
+67,San Francisco de los Romo,1
+68,Tecate,2
+69,Cabo San Lucas,3
+70,Calkini,4
+71,Matamoros,5
+72,Tecom�n,6
+73,Tapachula de C�rdova y Ord��ez,7
+74,Cuauht�moc,8
+75,Ciudad Lerdo,10
+76,Celaya,11
+77,Iguala de la Independencia,12
+78,Pachuca de Soto,13
+79,Guadalajara,14
+80,Coacalco de Berriozabal,15
+81,Ciudad Hidalgo,16
+82,Galeana,17
+83,Tuxpan,18
+84,Ciudad General Escobedo,19
+85,Salina Cruz,20
+86,Heroica Puebla de Zaragoza,21
+87,Felipe Carrillo Puerto,23
+88,Matehuala,24
+89,Escuinapa de Hidalgo,25
+90,Heroica Caborca,26
+91,Comalcalco,27
+92,Ciudad Madero,28
+93,Tlaxcala de Xicoht�ncatl,29
+94,Boca del R�o,30
+95,Ticul,31
+96,Zacatecas,32
+97,Ciudad de M�xico,9
+98,Jes�s Mar�a ,1
+99,Tijuana,2
+100,San Jos� del Cabo,3
+101,Candelaria,4
+102,Monclova,5
+103,Ciudad de Villa de �lvarez,6
+104,Tuxtla Guti�rrez,7
+105,Delicias,8
+106,Santiago Papasquiaro,10
+107,Cortazar,11
+108,Taxco de Alarc�n,12
+109,Fray Bernardino de Sahag�n (Ciudad Sahag�n),13
+110,Lagos de Moreno,14
+111,Cuautitl�n Izcalli,15
+112,Jacona de Plancarte,16
+113,Jojutla,17
+114,Acaponeta,18
+115,Guadalupe,19
+116,San Juan Bautista Tuxtepec,20
+117,San Mart�n Texmelucan de Labastida,21
+118,El Pueblito,22
+119,Chetumal,23
+120,Rioverde,24
+121,Guasave,25
+122,Ciudad Obreg�n,26
+123,Emiliano Zapata,27
+124,Ciudad Mante,28
+125,Huamantla,29
+126,Coatepec,30
+127,Motul de Carrillo Puerto,31
+128,Guadalupe,32
+129,Ciudad de M�xico,9
+130,Pabell�n de Arteaga,1
+131,Playas de Rosarito,2
+132,Loreto,3
+133,Esc�rcega,4
+134,Parras de la Fuente,5
+135,Ciudad de Armer�a,6
+136,Venustiano Carranza,7
+137,Hidalgo del Parral,8
+138,Canatl�n,10
+139,Guanajuato,11
+140,Arcelia,12
+141,Tula de Allende,13
+142,Ocotl�n,14
+143,Ecatepec de Morelos,15
+144,La Piedad de Cabadas,16
+145,Puente de Ixtla,17
+146,Tecuala,18
+147,Linares,19
+148,Mat�as Romero Avenda�o,20
+149,Tehuac�n,21
+150,Playa del Carmen,23
+151,San Luis Potos�,24
+152,Mazatl�n,25
+153,Empalme,26
+154,Jalpa de M�ndez,27
+155,Heroica Matamoros,28
+156,Calpulalpan,29
+157,Agua Dulce,30
+158,Valladolid,31
+159,R�o Grande,32
+160,Ciudad de M�xico,9
+161,Rinc�n de Romos,1
+162,Rodolfo S�nchez Taboada (Maneadero),2
+163,Puerto Adolfo L�pez Mateos,3
+164,Sabancuy,4
+165,Piedras Negras,5
+166,Jiquipilas,7
+167,Ju�rez,8
+168,San Juan del R�o del Centauro del Norte,10
+169,Irapuato,11
+170,Ayutla de los Libres,12
+171,Tulancingo,13
+172,Puerto Vallarta,14
+173,Huixquilucan de Degollado,15
+174,Morelia,16
+175,Santa Rosa Treinta,17
+176,Compostela,18
+177,Montemorelos,19
+178,Heroica Ciudad de Huajuapan de Le�n,20
+179,Teziutl�n,21
+180,Kantunilk�n,23
+181,Soledad de Graciano S�nchez,24
+182,Guam�chil,25
+183,Heroica Guaymas,26
+184,Nuevo Laredo,28
+185,Chiautempan,29
+186,Coatzacoalcos,30
+187,Kanas�n,31
+188,Ciudad Cuauht�moc,32
+189,Ciudad de M�xico,9
+190,Asientos,1
+191,Todos Santos,3
+192,Hopelch�n,4
+193,Sabinas,5
+194,Villaflores,7
+195,Nuevo Casas Grandes,8
+196,Pe��n Blanco,10
+197,Le�n de los Aldama,11
+198,Atoyac de �lvarez,12
+199,Zimap�n,13
+200,San Juan de los Lagos,14
+201,Los Reyes Acaquilpan (La Paz),15
+202,P�tzcuaro,16
+203,Zacatepec de Hidalgo,17
+204,Francisco I. Madero (Puga),18
+205,Monterrey,19
+206,Loma Bonita,20
+207,San Andr�s Cholula,21
+208,Isla Mujeres,23
+209,Charcas,24
+210,Navolato,25
+211,Hermosillo,26
+212,Macuspana,27
+213,Reynosa,28
+214,C�rdoba,30
+215,Progreso,31
+216,Ojocaliente,32
+217,Ciudad de M�xico,9
+218,Tepezal�,1
+219,San Felipe,2
+220,Heroica Muleg�,3
+221,Champot�n,4
+222,Saltillo,5
+223,Las Margaritas,7
+224,Francisco I. Madero,10
+225,Morole�n,11
+226,Huejutla de Reyes,13
+227,Tepatitl�n de Morelos,14
+228,Metepec,15
+229,Sahuayo de Morelos,16
+230,Tlaquiltenango,17
+231,Villa Hidalgo (El Nuevo),18
+232,Ciudad Sabinas Hidalgo,19
+233,Puerto Escondido,20
+234,San Pedro Cholula,21
+235,Bacalar,23
+236,Salinas de Hidalgo,24
+237,Quil�,25
+238,Huatabampo,26
+239,Tenosique de Pino Su�rez,27
+240,Ciudad R�o Bravo,28
+241,Tres Valles,30
+242,Villa Hidalgo,32
+243,Ciudad de M�xico,9
+244,Cos�o,1
+245,Villa Alberto Andr�s Alvarado Ar�mburo,3
+246,Hecelchak�n,4
+247,Nueva Rosita,5
+248,Arriaga,7
+249,Madera,8
+250,Nombre de Dios,10
+251,Salamanca,11
+252,San Jer�nimo de Ju�rez,12
+253,Tlaxcoapan,13
+254,Tlaquepaque,14
+255,Naucalpan de Ju�rez,15
+256,Uruapan,16
+257,Temixco,17
+258,Ru�z,18
+259,San Nicol�s de los Garza,19
+260,R�o Grande o Piedra Parada,20
+261,Huauchinango,21
+262,C�rdenas,24
+263,Ahome,25
+264,Navojoa,26
+265,Teapa,27
+266,San Fernando,28
+267,J�ltipan de Morelos,30
+268,Villanueva,32
+269,Ciudad de M�xico,9
+270,San Ignacio,3
+271,San Pedro,5
+272,Palenque,7
+273,Colonia An�huac,8
+274,Vicente Guerrero,10
+275,San Francisco del Rinc�n,11
+276,Ciudad Apaxtla de Castrej�n,12
+277,Tizayuca,13
+278,Zapopan,14
+279,Ciudad Nezahualc�yotl,15
+280,Zacapu,16
+281,Jiutepec,17
+282,San Blas,18
+283,Ciudad Santa Catarina,19
+284,Acatl�n de Osorio,21
+285,Cerritos,24
+286,Higuera de Zaragoza,25
+287,Heroica Nogales,26
+288,Para�so,27
+289,Tampico,28
+290,Xalapa-Enr�quez,30
+291,Villa de Cos,32
+292,Ciudad de M�xico,9
+293,Guerrero Negro,3
+294,Pomuch,4
+295,Torre�n,5
+296,Ocosingo,7
+297,Juan Aldama,8
+298,El Salto,10
+299,Silao,11
+300,Ciudad Altamirano,12
+301,Santiago Tulantepec,13
+302,Tlajomulco de Z��iga,14
+303,Ciudad Nicol�s Romero,15
+304,Zamora de Hidalgo,16
+305,Yautepec de Zaragoza,17
+306,Ixtl�n del R�o,18
+307,Doctor Arroyo,19
+308,Santiago Suchilquitongo,20
+309,Cuautlancingo,21
+310,Tamu�n,24
+311,Choix,25
+312,Puerto Pe�asco,26
+313,Frontera,27
+314,Ciudad Victoria,28
+315,Minatitl�n,30
+316,Nochistl�n de Mej�a,32
+317,Ciudad de M�xico,9
+318,Santa Rosal�a,3
+319,B�cal,4
+320,Casta�os,5
+321,Tonal�,7
+322,Jos� Mariano Jim�nez,8
+323,Santa Mar�a del Oro,10
+324,Jer�cuaro,11
+325,Buenavista de Cu�llar,12
+326,Ixmiquilpan,13
+327,Tonal�,14
+328,Tec�mac de Felipe Villanueva,15
+329,Her�ica Zit�cuaro,16
+330,Bucer�as,18
+331,Ci�nega de Flores,19
+332,San Felipe Jalapa de D�az,20
+333,Tepeaca,21
+334,Tamasopo,24
+335,Villa Uni�n,25
+336,Heroica Ciudad de Cananea,26
+337,Cunduac�n,27
+338,Gonz�lez,28
+339,Orizaba,30
+340,V�ctor Rosales,32
+341,Ciudad de M�xico,9
+342,Tenabo,4
+343,Francisco I. Madero (Ch�vez),5
+344,Mapastepec,7
+345,Manuel Ojinaga,8
+346,Santiago Maravat�o,11
+347,Cutzamala de Pinz�n,12
+348,Tepeji del R�o de Ocampo,13
+349,Tuxpan,14
+350,Tepotzotl�n,15
+351,Paracho de Verduzco,16
+352,Las Varas,18
+353,Hualahuises,19
+354,Bahias de Huatulco,20
+355,Tecamachalco,21
+356,Ciudad del Ma�z,24
+357,Sinaloa de Leyva,25
+358,Sonoyta,26
+359,Huimanguillo,27
+360,Jaumave,28
+361,Papantla de Olarte,30
+362,Valpara�so,32
+363,Ciudad de M�xico,9
+364,Cuatro Ci�negas de Carranza,5
+365,Las Rosas,7
+366,Bach�niva,8
+367,Romita,11
+368,Coyuca de Catal�n,12
+369,San Miguel Vindho,13
+370,Tototl�n,14
+371,Tlalnepantla de Baz,15
+372,Tanganc�cuaro de Arista,16
+373,Xalisco,18
+374,Putla Villa de Guerrero,20
+375,Zacatl�n,21
+376,Cedral,24
+377,Mocorito,25
+378,Magdalena de Kino,26
+379,Ciudad Gustavo D�az Ordaz,28
+380,Poza Rica de Hidalgo,30
+381,Luis Moya,32
+382,Ciudad de M�xico,9
+383,Nadadores,5
+384,Chiapa de Corzo,7
+385,Saucillo,8
+386,Tarandacuao,11
+387,Tierra Colorada,12
+388,Tepeapulco,13
+389,San Diego de Alejandr�a,14
+390,Santa Maria Tultepec,15
+391,Maravat�o de Ocampo,16
+392,San Pedro Lagunillas,18
+393,Cadereyta Jim�nez,19
+394,Cosolapa,20
+395,Xicotepec,21
+396,Tierra Nueva,24
+397,Angostura,25
+398,Estaci�n Manuel (�rsulo Galv�n),28
+399,San Andr�s Tuxtla,30
+400,Moyahua de Estrada,32
+401,Ciudad de M�xico,9
+402,Ramos Arizpe,5
+403,Cacahoat�n,7
+404,Huan�maro,11
+405,Coyuca de Ben�tez,12
+406,La Resolana,14
+407,Tultitl�n de Mariano Escobedo,15
+408,Zinap�cuaro de Figueroa,16
+409,La Pe�ita de Jaltemba,18
+410,Tlacolula de Matamoros,20
+411,Ciudad Serd�n,21
+412,Villa de Reyes,24
+413,San Blas,25
+414,Xicot�ncatl,28
+415,T�xpam de Rodr�guez Cano,30
+416,Sombrerete,32
+417,Nava,5
+418,Ocozocoautla de Espinosa,7
+419,Comonfort,11
+420,Olinal�,12
+421,Atotonilco el Alto,14
+422,Cuautitl�n,15
+423,Puru�ndiro,16
+424,Jala,18
+425,Santiago,19
+426,San Pablo Villa de Mitla,20
+427,Amozoc,21
+428,Fracci�n el Refugio,24
+429,La Cruz,25
+430,Ciudad Miguel Alem�n,28
+431,Veracruz,30
+432,Jalpa,32
+433,Zaragoza,5
+434,Cintalapa de Figueroa,7
+435,Uriangato,11
+436,Marquelia,12
+437,Jalostotitl�n,14
+438,Ixtapaluca,15
+439,Yur�cuaro,16
+440,Ahuacatl�n,18
+441,El cercado,19
+442,Natividad,20
+443,Tamazunchale,24
+444,El Rosario,25
+445,Soto la Marina,28
+446,Tierra Blanca,30
+447,Loreto,32
+448,San Buenaventura,5
+449,Pichucalco,7
+450,P�njamo,11
+451,Zumpango del R�o,12
+452,Poncitl�n,14
+453,Texcoco de Mora,15
+454,Huetamo de N��ez,16
+455,Teotitl�n de Flores Mag�n,20
+456,Santa Mar�a del R�o,24
+457,Estaci�n Naranjo,25
+458,Ciudad Tula,28
+459,Cosamaloapan,30
+460,Juan Aldama,32
+461,Ciudad Melchor M�zquiz,5
+462,Puerto Madero (San Benito),7
+463,Cuer�maro,11
+464,San Luis de la Loma,12
+465,Arandas,14
+466,Toluca de Lerdo,15
+467,Tac�mbaro de Codallos,16
+468,An�huac,19
+469,Santa Mar�a Huatulco,20
+470,El Naranjo,24
+471,Nueva Ciudad Guerrero,28
+472,Carlos A. Carrillo,30
+473,Viesca,5
+474,Pijijiapan,7
+475,Empalme Escobedo,11
+476,Petatl�n,12
+477,Talpa de Allende,14
+478,Valle de Chalco Solidaridad,15
+479,Ciudad L�zaro C�rdenas,16
+480,Garc�a,19
+481,San Juan Bautista Cuicatl�n,20
+482,Cosal�,25
+483,Valle Hermoso,28
+484,P�nuco,30
+485,Morelos,5
+486,Reforma,7
+487,San Luis de la Paz,11
+488,La Uni�n,12
+489,Etzatl�n,14
+490,Tejupilco de Hidalgo,15
+491,Las Guacamayas,16
+492,Ciudad Benito Ju�rez,19
+493,Villa Sola de Vega,20
+494,San Ignacio,25
+495,Tampico Alto,30
+496,Arteaga,5
+497,Huixtla,7
+498,Valle de Santiago,11
+499,San Luis San Pedro,12
+500,Sayula,14
+501,Chalco de D�az Covarrubias,15
+502,Jiquilpan de Ju�rez,16
+503,Ocotl�n de Morelos,20
+504,Topolobampo,25
+505,Tempoal de S�nchez,30
+506,Allende,5
+507,Motozintla de Mendoza,7
+508,Abasolo,11
+509,Teloloapan,12
+510,Ahualulco de Mercado,14
+511,Amatepec,15
+512,Tuxpan,16
+513,Villa de Zaachila,20
+514,Licenciado Benito Ju�rez (Campo Gobierno),25
+515,Tantoyuca,30
+516,Acala,7
+517,Rinc�n de Tamayo,11
+518,T�cpan de Galeana,12
+519,Autl�n de Navarro,14
+520,Cotija de la Paz,16
+521,Miahuatl�n de Porfirio D�az,20
+522,Guti�rrez Zamora,30
+523,Villagr�n,11
+524,Huitzuco,12
+525,Magdalena,14
+526,Melchor Ocampo,15
+527,Nueva Italia de Ruiz,16
+528,Uni�n Hidalgo,20
+529,Plat�n S�nchez,30
+530,Yuriria,11
+531,Tixtla de Guerrero,12
+532,San Juli�n,14
+533,Chicoloapan de Ju�rez,15
+534,Cuitzeo del Porvenir,16
+535,El Camar�n,20
+536,Juan Rodr�guez Clara,30
+537,Apaseo el Grande,11
+538,Cocula,14
+539,Capulhuac,15
+540,San Pedro Mixtepec Distrito 22,20
+541,Huatusco de Chicuellar,30
+542,Pur�sima de Bustos,11
+543,San Marcos,12
+544,El Grullo,14
+545,Juchitepec de Mariano Rivapalacio,15
+546,Santa Cruz Itundujia,20
+547,Ixtaczoquitl�n,30
+548,Salvatierra,11
+549,Azoy�,12
+550,San Miguel el Alto,14
+551,Tequixquiac,15
+552,Chahuites,20
+553,R�o Blanco,30
+554,Marfil,11
+555,Tlapehuala,12
+556,Tala,14
+557,Xonacatl�n,15
+558,Heroica Ciudad de Ejutla de Crespo,20
+559,Isla,30
+560,San Jos� Iturbide,11
+561,San Luis Acatl�n,12
+562,La Barca,14
+563,San Mateo Atenco,15
+564,San Pedro Tapanatepec,20
+565,Cuitl�huac,30
+566,Apaseo el Alto,11
+567,Chilapa de �lvarez,12
+568,Jamay,14
+569,Vicente Camalote,20
+570,Fort�n de las Flores,30
+571,Ciudad Manuel Doblado,11
+572,Tlapa de Comonfort,12
+573,Yahualica de Gonz�lez Gallo,14
+574,Villa de Tamazul�pam del Progreso,20
+575,Alvarado,30
+576,Jaral del Progreso,11
+577,Colotl�n,14
+578,San Juan Bautista Lo de Soto,20
+579,Jos� Cardel,30
+580,San Diego de la Uni�n,11
+581,Cuajinicuilapa,12
+582,Cihuatl�n,14
+583,Chiconcuac,15
+584,San Juan Cacahuatepec,20
+585,Banderilla,30
+586,Santa Cruz Juventino Rosas,11
+587,Huamuxtitl�n,12
+588,Zapotiltic,14
+589,San Pedro Totol�pam,20
+590,Paraje Nuevo,30
+591,Doctor Mora,11
+592,Cruz Grande,12
+593,Villa Corona,14
+594,San Miguel el Grande,20
+595,Playa Vicente,30
+596,Dolores Hidalgo Cuna de la Independencia Nacional,11
+597,Ocotito,12
+598,Teocaltiche,14
+599,Almoloya de Ju�rez,15
+600,Zimatl�n de �lvarez,20
+601,Altotonga,30
+602,Copala,12
+603,Ocoyoacac,15
+604,San Pablo Huitzo,20
+605,Juan D�az Covarrubias,30
+606,Zihuatanejo,12
+607,Tequila,14
+608,Zumpango,15
+609,San Francisco Telixtlahuaca,20
+610,Cuichapa,30
+611,El Quince (San Jos� el Quince),14
+612,Mariscala de Ju�rez,20
+613,Santiago Tuxtla,30
+614,San Jos� el Verde (El Verde),14
+615,Santiago Pinotepa Nacional,20
+616,Huayacocotla,30
+617,Jocotepec,14
+618,Santiago Jamiltepec,20
+619,Paso de Ovejas,30
+620,Tecalitl�n,14
+621,San Pedro Pochutla,20
+622,Catemaco,30
+623,Chapala,14
+624,Heroica Ciudad de Tlaxiaco,20
+625,Nogales,30
+626,Ajijic,14
+627,San Juan Bautista Valle Nacional,20
+628,Las Choapas,30
+629,San Ignacio Cerro Gordo,14
+630,Lagunas,20
+631,General Miguel Alem�n (Potrero Nuevo),30
+632,Zacoalco de Torres,14
+633,Ciudad Ixtepec,20
+634,Coatzintla,30
+635,Huejuquilla el Alto,14
+636,Santiago Juxtlahuaca,20
+637,�ngel R. Cabada,30
+638,Villa Hidalgo,14
+639,San Sebasti�n Tecomaxtlahuaca,20
+640,San Rafael,30
+641,Uni�n de San Antonio,14
+642,Asunci�n Nochixtl�n,20
+643,Tlacojalpan,30
+644,Las Pintitas,14
+645,San Francisco Ixhuat�n,20
+646,Cosoleacaque,30
+647,Tamazula de Gordiano,14
+648,San Blas Atempa,20
+649,Lerdo de Tejada,30
+650,Acatl�n de Ju�rez,14
+651,Santo Domingo Tehuantepec,20
+652,Tihuatl�n,30
+653,Valle de Guadalupe,14
+654,Cuil�pam de Guerrero,20
+655,Atoyac,30
+656,El Salto,14
+657,El Rosario,20
+658,Huiloapan de Cuauht�moc,30
+659,Villa Purificaci�n,14
+660,Santa Luc�a del Camino,20
+661,Cazones de Herrera,30
+662,San Antonio de la Cal,20
+663,Yecuatla,30
+664,Soledad de Doblado,30
+665,Cerro Azul,30
+666,Tezonapa,30
+667,Sihuapan,30
+668,El Higo,30
+669,Paso del Macho,30
+670,Tlapacoyan,30
+671,�lamo,30
+672,Mart�nez de la Torre,30
+673,Perote,30

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="536.0" prefWidth="962.0" type="Pane" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.PatronController">
+   <children>
+      <TableView fx:id="tblTablaPtron" layoutX="23.0" layoutY="134.0" prefHeight="374.0" prefWidth="910.0">
+        <columns>
+          <TableColumn fx:id="patronID" prefWidth="41.0" text="ID " />
+          <TableColumn fx:id="patronNombre" prefWidth="138.0" text="Nombre" />
+            <TableColumn fx:id="patronPaterno" prefWidth="183.0" text="A. Paterno" />
+            <TableColumn fx:id="patronMaterno" prefWidth="207.0" text="A. Materno" />
+            <TableColumn fx:id="patronTelefono" minWidth="2.0" prefWidth="120.0" text="Telefono" />
+            <TableColumn fx:id="patronCorreo" prefWidth="141.0" text="Correo" />
+            <TableColumn fx:id="comando" prefWidth="75.0" text="Editar" />
+        </columns>
+      </TableView>
+      <Label layoutX="428.0" layoutY="9.0" prefHeight="101.0" prefWidth="126.0" text="Patron">
+         <font>
+            <Font name="Dhurjati" size="51.0" />
+         </font>
+      </Label>
+      <FontAwesomeIconView fill="#092ed3" glyphName="USER_PLUS" layoutX="96.0" layoutY="83.0" onMouseClicked="#nuevoPatron" size="30" wrappingWidth="27.0" />
+      <FontAwesomeIconView fill="#57d75c" glyphName="REFRESH" layoutX="159.0" layoutY="85.0" onMouseClicked="#refrescar" size="30" wrappingWidth="27.0" />
+      <ImageView fitHeight="122.0" fitWidth="201.0" layoutX="719.0" layoutY="17.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagen/rostro.png" />
+         </image>
+      </ImageView>
+   </children>
+</fx:root>

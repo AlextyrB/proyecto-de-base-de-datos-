@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.NuevoPatronController">
+   <children>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="113.0" prefWidth="412.0" text="Nuevo Patron">
+               <font>
+                  <Font size="44.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="105.0" fitWidth="187.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../imagen/rostro.png" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+      <HBox prefHeight="43.0" prefWidth="600.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="33.0" prefWidth="170.0" text="Nombre:" textAlignment="CENTER">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtNombre" prefHeight="29.0" prefWidth="345.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="44.0" prefWidth="600.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="33.0" prefWidth="170.0" text="A.Paterno:" textAlignment="CENTER">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtAPaterno" prefHeight="29.0" prefWidth="345.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="47.0" prefWidth="600.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="33.0" prefWidth="170.0" text="A.Materno: " textAlignment="CENTER">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtAMaterno" prefHeight="29.0" prefWidth="345.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="42.0" prefWidth="600.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="33.0" prefWidth="170.0" text="Telefono:" textAlignment="CENTER">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtTelefono" prefHeight="31.0" prefWidth="345.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="27.0" prefWidth="600.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="33.0" prefWidth="170.0" text="Correo:" textAlignment="CENTER">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtCorreo" prefHeight="35.0" prefWidth="345.0" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="60.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#guardarAccion" prefHeight="43.0" prefWidth="97.0" stylesheets="@../css/aplication.css" text="Guardar" textFill="#f8f5f5" />
+         </children>
+      </HBox>
+   </children>
+</VBox>

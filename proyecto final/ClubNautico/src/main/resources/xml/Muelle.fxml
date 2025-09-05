@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="459.0" prefWidth="1550.0" type="Pane" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MuelleController">
+    <children>
+        <TableView fx:id="tblViajes" layoutX="14.0" layoutY="94.0" prefHeight="341.0" prefWidth="1522.0">
+            <columns>
+                <TableColumn fx:id="colNumero" prefWidth="50.0" text="#" />
+                <TableColumn fx:id="colIdViaje" prefWidth="70.0" text="ID Viaje" />
+                <TableColumn fx:id="colFechaHoraSalida" prefWidth="140.0" text="Fecha/Hora Salida" />
+                <TableColumn fx:id="colFechaHoraEntrada" prefWidth="140.0" text="Fecha/Hora Entrada" />
+                <TableColumn fx:id="colDestino" prefWidth="120.0" text="Destino" />
+                <TableColumn fx:id="colNombreCompletoPatron" prefWidth="180.0" text="Nombre Completo Patrón" />
+                <TableColumn fx:id="colTelefonoPatron" prefWidth="100.0" text="Teléfono" />
+                <TableColumn fx:id="colCorreoPatron" prefWidth="180.0" text="Correo Patrón" />
+                <TableColumn fx:id="colMatriculaBarco" prefWidth="100.0" text="Matrícula Barco" />
+                <TableColumn fx:id="colNombreBarco" prefWidth="120.0" text="Nombre Barco" />
+                <TableColumn fx:id="colNombreCompletoSocio" prefWidth="180.0" text="Nombre Completo Socio" />
+                <TableColumn fx:id="colTelefonoSocio" prefWidth="100.0" text="Teléfono Socio" />
+            </columns>
+        </TableView>
+        <Label layoutX="700.0" layoutY="13.0" prefHeight="70.0" prefWidth="150.0" text="Viajes" textAlignment="CENTER">
+            <font>
+                <Font name="Dhurjati" size="51.0" />
+            </font>
+        </Label>
+        <!-- Icono de refrescar habilitado -->
+        <FontAwesomeIconView fill="#57d75c" glyphName="REFRESH" layoutX="115.0" layoutY="70.0" onMouseClicked="#refrescar" size="30" wrappingWidth="27.0" />
+        <ImageView fitHeight="135.0" fitWidth="198.0" layoutX="1340.0" layoutY="-25.0" pickOnBounds="true" preserveRatio="true">
+
+        </ImageView>
+        <!-- Etiqueta informativa -->
+        <Label layoutX="14.0" layoutY="440.0" prefHeight="17.0" prefWidth="457.0" text="Vista de solo lectura - Los datos no pueden ser modificados" textFill="#666666">
+            <font>
+                <Font size="12.0" />
+            </font>
+        </Label>
+    </children>
+</fx:root>

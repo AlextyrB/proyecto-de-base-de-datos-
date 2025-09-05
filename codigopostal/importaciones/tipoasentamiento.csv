@@ -1,0 +1,25 @@
+﻿c_tipo_asenta,d_tipo_asenta
+1,Aeropuerto
+2,Barrio
+4,Campamento
+9,Colonia
+10,Condominio
+12,Conjunto habitacional
+15,Ejido
+17,Equipamiento
+18,Exhacienda
+20,Finca
+21,Fraccionamiento
+23,Granja
+24,Hacienda
+28,Pueblo
+29,Ranchería
+31,Unidad habitacional
+33,Zona comercial
+34,Zona federal
+37,Zona industrial
+40,Puerto
+45,Paraje
+46,Zona naval
+47,Zona militar
+48,Rancho

@@ -1,0 +1,46 @@
+consulta de repetidos 
+CALL VerificarMigracion();
+-- Ver todos los asentamientos del código postal 01030
+CALL BuscarPorCodigoPostal('01030');
+CALL AnalizarIDsDuplicados();
+
+1. Consulta completa básica - Obtiene toda la información de un asentamiento:
+SELECT 
+    a.d_codigo AS codigo_postal,
+    a.d_asenta AS colonia,
+    ta.d_tipo_asenta AS tipo_asentamiento,
+    a.d_zona AS zona,
+    m.d_mnpio AS municipio,
+    e.d_estado AS estado
+FROM Asentamientos a
+INNER JOIN TiposAsentamiento ta ON a.c_tipo_asenta = ta.c_tipo_asenta
+INNER JOIN Municipios m ON a.c_mnpio = m.c_mnpio
+INNER JOIN Estados e ON m.c_estado = e.c_estado
+WHERE a.d_codigo = '01030';
+
+buscar colonias por nombre
+SELECT 
+    a.d_codigo AS codigo_postal,
+    a.d_asenta AS colonia,
+    m.d_mnpio AS municipio,
+    e.d_estado AS estado
+FROM Asentamientos a
+INNER JOIN Municipios m ON a.c_mnpio = m.c_mnpio
+INNER JOIN Estados e ON m.c_estado = e.c_estado
+WHERE a.d_asenta LIKE '%centro%';
+
+
+SELECT 
+    e.d_estado AS estado,
+    COUNT(DISTINCT a.id_asenta_cpcons) AS total_asentamientos,
+    COUNT(DISTINCT a.d_codigo) AS codigos_postales_unicos
+FROM Estados e
+INNER JOIN Municipios m ON e.c_estado = m.c_estado
+INNER JOIN Asentamientos a ON m.c_mnpio = a.c_mnpio
+GROUP BY e.c_estado, e.d_estado
+ORDER BY total_asentamientos DESC;
+
+CALL BuscarPorCP('01030');
+select * from Socio s inner join Barco b on s.id_socio = b.id_socio;
+MariaDB [club]> select s.id_socio,s.nombre,s.apellido_paterno,b.nombre_barco,b.n_matricula, b.id_muelle  from Socio s inner join Barco b on s.id_socio = b.id_socio;
+

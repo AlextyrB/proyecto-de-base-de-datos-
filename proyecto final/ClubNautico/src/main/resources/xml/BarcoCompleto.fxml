@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="524.0" prefWidth="1034.0" type="Pane" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.BarcoCompletoController">
+    <children>
+        <TableView fx:id="tblTablaBarco" layoutX="12.0" layoutY="135.0" prefHeight="375.0" prefWidth="1013.0">
+            <columns>
+                <TableColumn fx:id="nMatricula" prefWidth="103.0" text="Nº Matricula" />
+                <TableColumn fx:id="nombreBarco" prefWidth="138.0" text="Nombre del Barco" />
+                <TableColumn fx:id="mensualidad" prefWidth="109.0" text="Mensualidad" />
+                <TableColumn fx:id="nombreCompletoSocio" prefWidth="218.0" text="Nombre Socio" />
+                <TableColumn fx:id="telefonoSocio" minWidth="2.0" prefWidth="121.0" text="Telefono" />
+                <TableColumn fx:id="correoSocio" prefWidth="140.0" text="Correo Socio" />
+                <TableColumn fx:id="muelle" prefWidth="104.0" text="Muelle" />
+                <TableColumn fx:id="amarre" prefWidth="99.0" text="Amarre" />
+            </columns>
+        </TableView>
+        <Label layoutX="373.0" layoutY="23.0" prefHeight="101.0" prefWidth="322.0" text="Barco Completo">
+            <font>
+                <Font name="Dhurjati" size="51.0" />
+            </font>
+        </Label>
+        <ImageView fitHeight="183.0" fitWidth="201.0" layoutX="801.0" layoutY="-26.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../imagen/barco-removebg-preview.png" />
+            </image>
+        </ImageView>
+      <ImageView fitHeight="183.0" fitWidth="201.0" layoutX="84.0" layoutY="-26.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagen/barco-removebg-preview.png" />
+         </image>
+      </ImageView>
+    </children>
+</fx:root>
